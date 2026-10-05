@@ -1,0 +1,62 @@
+[
+  {
+    "source": "announcement.txt",
+    "destination": "announcements/announcement.txt",
+    "reason": "活動公告，提醒自備筆記本，時間地點待定"
+  },
+  {
+    "source": "announcement_copy.txt",
+    "destination": "announcements/announcement_copy.txt",
+    "reason": "活動公告副本，內容與 announcement.txt 完全相同"
+  },
+  {
+    "source": "poster_text.txt",
+    "destination": "announcements/poster_text.txt",
+    "reason": "文宣海報文字，提倡休息與創作小卡"
+  },
+  {
+    "source": "proposal_final.txt",
+    "destination": "proposals/proposal_final.txt",
+    "reason": "企畫初版 (v1)：戶外活動 30 分鐘，尚未定案"
+  },
+  {
+    "source": "proposal_final2.txt",
+    "destination": "proposals/proposal_final2.txt",
+    "reason": "企畫第二版 (v2)：室內活動 20 分鐘，仍待討論"
+  },
+  {
+    "source": "rain_plan.txt",
+    "destination": "proposals/rain_plan.txt",
+    "reason": "雨天備案：下雨時另議室內方案"
+  },
+  {
+    "source": "next_steps.txt",
+    "destination": "proposals/next_steps.txt",
+    "reason": "後續追蹤事項：比較兩版企畫，兩者皆未定案"
+  },
+  {
+    "source": "budget_draft.txt",
+    "destination": "logistics/budget_draft.txt",
+    "reason": "預算草案：模擬紙張預算100單位，尚未核定"
+  },
+  {
+    "source": "equipment_list.txt",
+    "destination": "logistics/equipment_list.txt",
+    "reason": "器材清單：白板筆4支、紙2包"
+  },
+  {
+    "source": "equipment_backup.txt",
+    "destination": "logistics/equipment_backup.txt",
+    "reason": "器材清單備份，內容與 equipment_list.txt 完全相同"
+  },
+  {
+    "source": "meeting_notes.txt",
+    "destination": "meetings_and_feedback/meeting_notes.txt",
+    "reason": "會議紀錄：下次討論室內或室外方案"
+  },
+  {
+    "source": "feedback_questions.txt",
+    "destination": "meetings_and_feedback/feedback_questions.txt",
+    "reason": "回饋問題：調查任務是否清楚及建議改進處"
+  }
+]
